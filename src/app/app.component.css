@@ -1,0 +1,9 @@
+#div1 { width: 100%; height: 130px; background-color: orange; }
+#div2 { width: 100%; height: 80px; background-color: lightpink; }
+#div3 { width: 15%; height: 200px; background-color:red; float: left;}
+#div4 { width: 70%; height: 200px; background-color: skyblue; float: left;}
+#div5 { width: 15%; height: 200px; background-color: chocolate; float: left;}
+#div6 { width: 100%; height: 80px; background-color: lightcoral; clear: both;}
+#div7 { width: 70%; height: 100px; background-color: skyblue; float: left;}
+#div8 { width: 30%; height: 100px; background-color: chocolate; float: left;}
+#div9 { width: 100%; height: 50px; background-color: lightcoral; clear: both;}
